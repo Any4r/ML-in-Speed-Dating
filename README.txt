@@ -1,8 +1,14 @@
-CONTENT:
-This zip folder has the following content
+# ML in Speed Dating
 
-* "Data" folder where the raw and the preprocessed data sets, as well as the key with the variable explanations, are stored
-* "RMarkdown" folder where all .Rmd files and pictures (.png). In order to run the .Rmd files to create the html output yourself, please personalise the working directory to this group folder in the following file:
+GOAL: 
+
+To use and apply different statistic models, Machine Learning Algortihms and Neural Network to a Speed Dating data set, in order to predict a 'match' between 2 persons.
+
+CONTENT:
+This repository has the following content:
+
+* "Data" folder where the raw and the preprocessed data sets as well as the key with the variable explanations are stored
+* "RMarkdown" folder with all .Rmd files and pictures (.png). In order to run the .Rmd files to create the html output yourself, please personalise the working directory to this group folder in the following file:
 - 0_Index File.Rmd (line 12)
 
 
