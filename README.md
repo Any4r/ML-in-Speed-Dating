@@ -2,7 +2,7 @@
 
 GOAL: 
 
-To use and apply different statistic models, Machine Learning Algortihms and Neural Network to a Speed Dating data set, in order to predict a 'match' between 2 persons.
+To use and apply different statistical models, Machine Learning Algortihms and Neural Network to a Speed Dating data set, in order to predict a 'match' between 2 persons.
 
 CONTENT:
 This repository has the following content:
